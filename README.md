@@ -1,7 +1,9 @@
-# NBA Player Trade Analysis
-
-![](https://github.com/jenningst/nba-trade-analysis/blob/main/images/markus-spiske-BfphcCvhl6E-unsplash)
+<p align='center'>
+  <img width="600" src='https://github.com/jenningst/nba-trade-analysis/blob/main/images/markus-spiske-BfphcCvhl6E-unsplash.jpg' alt='Basketball'>
+</p>
 <p align='center'>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/wallpapers/sports/basketball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+
+# NBA Player Trade Analysis
 
 In this project, we attempt to answer the following questions: what comparisons can we make between clusters through a K-Means algorithm vs. a DBSCAN algorithm, and are these methods suitable for comparing player similarity in the NBA (National Basketball Association) based on individual player in-game statistics? The dataset for this project will include individual per-game player statistics from the National Basketball Association (NBA).
 
