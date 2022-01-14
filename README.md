@@ -6,6 +6,11 @@ In this project, we attempt to answer the following questions: what comparisons 
 
 Fantasy sports leagues enable fans (“commissioners”) to put together a virtual team of real-life players, to compete against other virtual teams in a variety of formats, based on the players’ actual game statistics. In fantasy sports, the objective is to assemble a team of NBA players through a mock draft. These teams accumulate fantasy points across categories over the course of a season, determining the virtual team’s rank in each category. The final standings of the fantasy teams at the end of the season determine the league winner. Players’ statistics and other metrics will be evaluated in this project including the following: player position, minutes played, points, three-points made, field goals made, free throws made, offensive/defensive rebounds, assists, steals, blocks, turnovers, and date played on. The idea throughout this project will be to evaluate players statistics through clustering.
 
+## Assumptions
+
+To keep the project less complex, we have to make some basic assumptions:
+- trade analysis is only completed on players of the same position
+- clustering methods yeild similar results across disparate player position types (e.g., Guard, Forward, Center)
 
 ## Method and Results 
 
